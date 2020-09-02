@@ -15,14 +15,16 @@ author_dir: /author
 author_title_prefix: 'Posted by '
 media_folder: /media/compressed
 author_default_avatar: /profile-pic.jpg
-tumblr: "#"
-pinterest: "#"
-instagram: "#"
-twitter: "#"
-facebook: "#"
-youtube: "#"
+tumblr: "https://www.tumblr.com/blog/thesolyd"
+pinterest: "https://in.pinterest.com/TheSOLYD/"
+instagram: "https://www.instagram.com/thesolyd/"
+twitter: "https://twitter.com/TheSolyd"
+facebook: "https://www.facebook.com/solydtech"
+youtube: "https://www.youtube.com/channel/UCZSWMX20I6IsYVAnrZkRHKA?view_as=subscriber"
 vimeo: "#"
 soundcloud: "#"
+linkedin: "https://www.linkedin.com/company/solydtech"
+gitter: "https://gitter.im/thesolyd/community"
 
 encoding: utf-8
 defaults:
@@ -40,6 +42,8 @@ kramdown:
   syntax_highlighter: rouge
 relative_permalinks: false
 exclude: [.git, .gitignore, sass, .sass-cache, package.json, gruntfile.js, node_modules, README.md, jekyllbuild]
+
+favicon: /favicon.ico
 
 # prose.io configurations
 prose:
